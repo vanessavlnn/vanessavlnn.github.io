@@ -1,6 +1,6 @@
 # Vanessa Valendhita Santoso — Portfolio
 
-A static personal portfolio built with HTML, CSS, and JavaScript. No frameworks or build tools — open `index.html` in a browser and you're ready.
+A static personal portfolio built with HTML, CSS, and JavaScript. No frameworks or build tools — open `index.html` in a browser and you're ready.\
 
 ## Design Identity
 
